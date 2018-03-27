@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Landscape.iml" filepath="$PROJECT_DIR$/Landscape.iml" />
+      <module fileurl="file://E:\calculator_lanscape\Landscape.iml" filepath="E:\calculator_lanscape\Landscape.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://E:\calculator_lanscape\app\app.iml" filepath="E:\calculator_lanscape\app\app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/calculator_lanscape.iml" filepath="$PROJECT_DIR$/calculator_lanscape.iml" />
     </modules>
   </component>
 </project>

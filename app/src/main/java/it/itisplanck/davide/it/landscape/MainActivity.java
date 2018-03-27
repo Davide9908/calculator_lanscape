@@ -50,7 +50,8 @@ public class MainActivity extends AppCompatActivity {
                             t1.setText(t2.getText() + "=" + (Integer.parseInt(numeri[0]) * Integer.parseInt(numeri[1])) + "\n");
                             break;
                         case 4:
-                            t1.setText(t2.getText() + "=" + (Integer.parseInt(numeri[0]) / Integer.parseInt(numeri[1])) + "\n");
+                            double n=Double.parseDouble(numeri[0]) / Double.parseDouble(numeri[1]);
+                            t1.setText(t2.getText() + "=" +""+ n + "\n");
                             break;
                     }
 
